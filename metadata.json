@@ -1,0 +1,6 @@
+{
+  "name": "Minecraft Addons",
+  "description": "Descubre y publica add-ons, texturas, skin packs y shaders para Minecraft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
